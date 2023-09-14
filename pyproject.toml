@@ -10,6 +10,11 @@ packages = [{include = "ds_ml"}]
 python = "^3.11"
 numpy = "^1.25.2"
 jupyter = "^1.0.0"
+pandas = "^2.1.0"
+lxml = "^4.9.3"
+matplotlib = "^3.7.3"
+mplcyberpunk = "^0.7.0"
+seaborn = "^0.12.2"
 
 
 [build-system]
