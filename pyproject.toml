@@ -15,6 +15,7 @@ lxml = "^4.9.3"
 matplotlib = "^3.7.3"
 mplcyberpunk = "^0.7.0"
 seaborn = "^0.12.2"
+scikit-learn = "^1.3.1"
 
 
 [build-system]
